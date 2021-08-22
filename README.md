@@ -9,11 +9,11 @@
 ### Build Nav Steps:
 * Query the all sections and store the list in variable.
 * Use forEach on the list Variable.
-* Create (1 <li> and 1 <a> and 1 textNode ) for each section in the list.
+* Create (1 li and 1 a and 1 textNode ) for each section in the list.
 * Extract the data-nav value from the section and store it in variable.
 * add this variable which contains the text to the link as (Text Content, ID or data-nav value)
 * Use appendChild on the Fragment inside the loop.
-* After the loop end append that Fragment to the (<ul>).
+* After the loop end append that Fragment to the (ul).
 * Add EventListener to the links and use (scrollIntoView()).
 
 ### Get the active Section:
