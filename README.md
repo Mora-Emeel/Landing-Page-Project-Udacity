@@ -5,6 +5,7 @@
 * Get the active Section
 * Burger menu
 * Notes
+* Resourses
 
 ### Build Nav Steps:
 * Query the all sections and store the list in variable.
@@ -29,3 +30,6 @@
 
 ### Notes
 - I struggled so much in finding a resource to learn the (intersection observer API) method but not found a satisfying one yet so I asked the tuters help a lot in this part whicl I was writing my code and when I was trying it and finding that it is not working I submitted my code to the community twice and they helped me to write my code in a right and clean way which I am so grateful for. 
+
+### Resources
+- As I mentioned before I was searching for every single piece of information to write a working code and through this process I used Youtube, Google, MDN documentations, W3 Schools and a lot of websites seeking for any information  
