@@ -13,8 +13,8 @@
 * Extract the data-nav value from the section and store it in variable.
 * add this variable which contains the text to the link as (Text Content, ID or data-nav value)
 * Use appendChild on the Fragment inside the loop.
-* After the loop end append that Fragment to the <ul>.
-* Add EventListener to the links and use scrollIntoView().
+* After the loop end append that Fragment to the (<ul>).
+* Add EventListener to the links and use (scrollIntoView()).
 
 ### Get the active Section:
 * I used intersection observer API.
