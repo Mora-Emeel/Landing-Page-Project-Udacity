@@ -1,4 +1,10 @@
-# Landing Page Project 
+# Landing Page Project
+
+##Content
+* Build Nav Steps
+* Get the active Section
+* Burger menu
+* Notes
 
 ### Build Nav Steps:
 1- Query the all sections and store the list in variable.
