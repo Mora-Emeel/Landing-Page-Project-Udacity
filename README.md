@@ -1,6 +1,6 @@
 # Landing Page Project
 
-##Content
+## Content
 * Build Nav Steps
 * Get the active Section
 * Burger menu
