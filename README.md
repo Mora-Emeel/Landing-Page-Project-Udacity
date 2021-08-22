@@ -17,9 +17,9 @@
 * Add EventListener to the links and use scrollIntoView().
 
 ### Get the active Section:
-1- I used intersection observer API.
-2-  Use forEach() method on the sections list inside the callback to determine the active section 
-3- Inside it use forEach() method on the links list and check by the value of data-nav attribute which link refer to the active section and add the active-class to it after removing this active class from the other links 
+* I used intersection observer API.
+* Use forEach() method on the sections list inside the callback to determine the active section 
+* Inside it use forEach() method on the links list and check by the value of data-nav attribute which link refer to the active section and add the active-class to it after removing this active class from the other links 
 
 ### Burger menu
 - At first make the whole page responsive by using media query 
