@@ -1,3 +1,5 @@
+# Landing Page Project 
+
 # Build Nav Steps:
 1- Query the all sections and store the list in variable.
 2- Use forEach on the list Variable.
